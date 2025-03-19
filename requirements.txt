@@ -1,0 +1,4 @@
+opencv-python~=4.11.0.86
+numpy~=2.0.2
+pytesseract~=0.3.13
+pyinpaint~=1.0.0
